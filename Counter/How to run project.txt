@@ -1,0 +1,6 @@
+1. Install node modules  in frontend and backned floders.
+2. check the .env file 
+3. run node node index.js in terminal to run backend 
+4. next start your frontned project 
+
+output is will render on screen .
